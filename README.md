@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shiv Thapa</h1>
+<h1 align="center">Hi 👋, I'm Shiv </h1>
 <h3 align="center">A passionate animal from Earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivonly&label=Profile%20views&color=0e75b6&style=flat" alt="shivonly" /> </p>
