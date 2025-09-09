@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fundamentals of Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShivOnly/Portfolio](https://github.com/ShivOnly/Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shivonly.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [https://leetcode.com/u/alitrope/](https://leetcode.com/u/alitrope/)
 
