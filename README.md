@@ -29,9 +29,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivonly&show_icons=true&locale=en&layout=compact" alt="shivonly" /></p><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### ✍️ Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+### ✍️ Quote
 [Read My Latest Blogs](https://leetcode.com/discuss/post/7130792/important-subreddits-to-follow-for-becom-x5r5/)
 [![](https://visitcount.itsvg.in/api?id=ShivOnly&icon=0&color=0)](https://visitcount.itsvg.in)
 
