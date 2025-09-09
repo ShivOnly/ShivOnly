@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.leetcode.com/alitrope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alitrope" height="30" width="40" /></a></p>
 <p align="left">
-  <a href="https://www.reddit.com/user/Solenoidics/" target="blank">
+  <a href="https://www.reddit.com/user/Solenoidics/Submitted" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" 
          alt="Solenoidics" height="30" width="40" />
   </a>
