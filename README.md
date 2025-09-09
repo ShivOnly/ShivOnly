@@ -37,6 +37,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Alt Text](https://media.tenor.com/6kHYfJOLL_YAAAAC/coding.gif)
+![Coding GIF](./tenor.gif)
+
 
 
